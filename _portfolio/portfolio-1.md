@@ -1,6 +1,6 @@
 ---
-title: "And Then There Is You"
-excerpt: "an interactive twine game and short visual novel <br/><img src='/images/500x300.png'>"
+title: "And Then There Are You"
+excerpt: "an interactive twine game and short visual novel <br/><img src='/images/bio-photo.png'>"
 collection: portfolio
 ---
 

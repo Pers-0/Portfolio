@@ -104,20 +104,14 @@ var LZString=function(){var r=String.fromCharCode,o="ABCDEFGHIJKLMNOPQRSTUVWXYZa
 		<div id="init-lacking"><p>Browser lacks capabilities required to play.</p><p>Upgrade or switch to another browser.</p></div>
 		<div id="init-loading"><div>Loading&hellip;</div></div>
 	</div>
-	<tw-storydata name="And Then There Are You" startnode="1" creator="Twine" creator-version="2.10.0" format="SugarCube" format-version="2.37.3" ifid="0CF01BBD-91E1-4091-BF1F-66388C87A4A5" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript">(function() {
-  if (!window.bgm) {
-    window.bgm = new Audio("https://media.vocaroo.com/mp3/1hzYIbKsh56a");
-    bgm.loop = true;
-    bgm.volume = 0.9;
-    bgm.play().catch(e=>console.warn("BGM play prevented:", e));
-  }
-})();</script><tw-passagedata pid="1" name="Landing" tags="" position="600,250" size="100,100">&lt;&lt;script&gt;&gt;
-if (!window.startSfx) {
-  window.startSfx = new Audio(&quot;https://media.vocaroo.com/mp3/1a1ZcW8NApjy&quot;);
-  window.startSfx.loop = false;
-  window.startSfx.play().catch(e =&gt; console.warn(&quot;startSfx play prevented:&quot;, e));
+	<tw-storydata name="And Then There Are You" startnode="1" creator="Twine" creator-version="2.10.0" format="SugarCube" format-version="2.37.3" ifid="0CF01BBD-91E1-4091-BF1F-66388C87A4A5" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Landing" tags="" position="600,250" size="100,100">&lt;&lt;script&gt;&gt;
+if (!window.journeyBgm) {
+    window.journeyBgm = new Audio(&quot;https://media.vocaroo.com/mp3/1hzYIbKsh56a&quot;);
+    window.journeyBgm.loop = true;
+    window.journeyBgm.play().catch(e =&gt; console.warn(&quot;Journey BGM failed:&quot;, e));
 }
 &lt;&lt;/script&gt;&gt;
+
 The airlock groans open with a shriek that pierces the eerie silence, revealing a landscape that defies everything you were trained to expect. Twin suns hang heavy in a violet sky, drenching the horizon in an alien glow. Their radiance glints off jagged obsidian spires jutting from the ground like shattered bones, twisted and malformed as if birthed from some geological nightmare. A wind rushes past you, carrying the acrid tang of scorched metal—fused wiring, maybe—but beneath it lingers something sweeter. Rotten. Like overripe fruit left too long in the sun.
 
 Then you see the ALIEN.

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-You are always welcome to this place. I'm Gege Song, and things could be even more pleasant if you could get the order right and know that family name goes first in my original name, something I inherited from my mother.
+You are always welcome to this place. I'm Gege Song, and things could be even more pleasant if you could get the order right and know that family name, which I inherited from my mother, goes first in my original name.
 
 To me, gaming is among the human instincts that requires no pre-knowledge to engage with. Curiosity penetrates our motivations, sense of achievements and critical thinking. Nevertheless, before involvement in game-design practices my interest in data-driven projects only concerns their potential in capturing aggregate patterns, unveiling mechanisms in causal relationships, and producing more intuitive outcomes to interpret and communicate, as if the thin red line between creative, pragmatic and critical contributions were ontological. 
 

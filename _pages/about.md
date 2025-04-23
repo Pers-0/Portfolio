@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is 
+Thi 
 
 A data-driven personal website
 ======
@@ -33,7 +33,7 @@ How to edit your site's GitHub repository
 
 For more info
 ------
-Please find more detailed introduction on my experiments/projects on the portfolio page. 
+More detailed introduction on my experiments/projects can be found the portfolio page. 
 Quick link: 
 [the guide](https://academicpages.github.io/markdown/)
 [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki)

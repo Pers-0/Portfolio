@@ -5,10 +5,10 @@ collection: portfolio
 ---
 [🌚 Launch the game](/Portfolio/_pages/And%20Then%20There%20Are%20You.html){:target="_blank"}
 
-
 **And Then There Are You** is a short visual novel and psychological suspense interactive fiction, created with Twine using the SugarCube format.
 
-You can play it in-browser. No installation required.
+🌚 For the best audio and graphical experience please download the game here. [Download the game](https://pers-0.github.io/Portfolio/_pages/And%20Then%20There%20Are%20You.html){:download}
+No installation required.
 
 
 

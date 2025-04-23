@@ -1,7 +1,14 @@
 ---
 title: "And Then There Are You"
-excerpt: "an interactive twine game and short visual novel <br/><img src='/images/bio-photo.png'>"
+excerpt: "an interactive twine game and short visual novel <br/><img src='/images/twine.png'>"
 collection: portfolio
 ---
+[🌚 Launch the game](/Portfolio/_pages/And%20Then%20There%20Are%20You.html){:target="_blank"}
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**And Then There Are You** is a short visual novel and psychological suspense interactive fiction, created with Twine using the SugarCube format.
+
+You can play it in-browser. No installation required.
+
+
+
+

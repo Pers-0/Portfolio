@@ -112,12 +112,13 @@ var LZString=function(){var r=String.fromCharCode,o="ABCDEFGHIJKLMNOPQRSTUVWXYZa
     bgm.play().catch(e=>console.warn("BGM play prevented:", e));
   }
 })();</script><tw-passagedata pid="1" name="Landing" tags="" position="600,250" size="100,100">&lt;&lt;script&gt;&gt;
-if (!window.startSfx) {
-  window.startSfx = new Audio(&quot;https://media.vocaroo.com/mp3/1a1ZcW8NApjy&quot;);
-  window.startSfx.loop = false;
-  window.startSfx.play().catch(e =&gt; console.warn(&quot;startSfx play prevented:&quot;, e));
+if (!window.journeyBgm) {
+    window.journeyBgm = new Audio(&quot;https://media.vocaroo.com/mp3/1hzYIbKsh56a&quot;);
+    window.journeyBgm.loop = true;
+    window.journeyBgm.play().catch(e =&gt; console.warn(&quot;Journey BGM failed:&quot;, e));
 }
 &lt;&lt;/script&gt;&gt;
+
 The airlock groans open with a shriek that pierces the eerie silence, revealing a landscape that defies everything you were trained to expect. Twin suns hang heavy in a violet sky, drenching the horizon in an alien glow. Their radiance glints off jagged obsidian spires jutting from the ground like shattered bones, twisted and malformed as if birthed from some geological nightmare. A wind rushes past you, carrying the acrid tang of scorched metal—fused wiring, maybe—but beneath it lingers something sweeter. Rotten. Like overripe fruit left too long in the sun.
 
 Then you see the ALIEN.

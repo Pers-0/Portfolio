@@ -1,6 +1,6 @@
 ---
 title: "Where is my tail?"
-excerpt: "Bitsy game. A short experimental narrative you could enjoy with a cup of tea. It's about wandering, remembering, and warm pixels.<img src='/images/p2.png'>"
+excerpt: "Bitsy game. A short experimental narrative you could enjoy with a cup of tea. It's about wandering, remembering, and warm pixels.<img src='https://pers-0.github.io/Portfolio/images/p2.png' alt='Game screenshot' style='max-width: 100%;'>"
 collection: portfolio
 ---
 <img src="https://pers-0.github.io/Portfolio/images/p2.png" alt="Game screenshot" style="max-width: 100%;">

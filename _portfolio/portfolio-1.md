@@ -1,6 +1,6 @@
 ---
 title: "And Then There Are You"
-excerpt: "A short visual novel and psychological suspense interactive fiction. Created with Twine using the SugarCube format."
+excerpt: "A short visual novel and psychological suspense interactive fiction. Created with Twine using the SugarCube format.<br/><img src='/images/twine.png'>"
 collection: portfolio
 ---
 <img src="https://pers-0.github.io/Portfolio/images/twine.png" alt="Image 1" style="max-width: 100%;">

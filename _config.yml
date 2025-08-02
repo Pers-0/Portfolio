@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Gege Song"
   pronouns         : "she/her"  
-  bio              : "Digital Humanities| Sociology| Crisy Soft Persimmon"
+  bio              : "Digital Humanities| Sociology| Researcher/Maker"
   location         : "Edmonton, AB"
   uri              : # URL
   email            : "gege2@ualberta.ca" 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "pers-0"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

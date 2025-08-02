@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 
 ---
-You are always welcome to this place. I'm Gege Song, and things could be even more pleasant if you could get the order right and know that family name, which I inherited from my mother, goes first in my original name.
+You are always welcome to this place.
 
-To me, gaming is among the human instincts that requires no pre-knowledge to engage with. Curiosity penetrates our motivations, sense of achievements and critical thinking. Nevertheless, before involvement in game-design practices my interest in data-driven projects only concerns their potential in capturing aggregate patterns, unveiling mechanisms in causal relationships, and producing more intuitive outcomes to interpret and communicate, as if the thin red line between creative, pragmatic and critical contributions were ontological. 
+I’m Gege Song — researcher, developer, and designer. To me, interactive design is engaging a fundamental human instinct that everyone experiences. Curiosity drives our motivations, sense of achievement, and critical thinking.
+
+Before working in Digital Humanities projects, my interest in data-driven research was mainly focused on its potential to capture aggregate patterns, reveal causal mechanisms, and produce intuitive outputs for interpretation and communication — as if the thin red line separating creative, pragmatic, and critical contributions were ontological.
+
+Only it is not.
+
+Working at the intersection of code, cognition, and culture, I explore how seemingly distant domains can speak to one another. My projects range from building SQL databases for corpus analysis, to using Python for textual pattern recognition, to interactive storytelling where co-creation between designers and users is essential.
 
 Manifesto?
 ======
-Respect for client self-determination is central in the field of social work, not only because it's ultimately the clients' war to fight, but also due to the fact that they hold specific valuable knowledge that's not always articulable. In the same vein, I believe to make a game is not to educate or to tell the gamers what to know/do, but to share a few moments with souls that feel like doing it-- at that moment, in that space.
+Respect for client self-determination is central in the field of social work, not only because it's ultimately the clients' war to fight, but also due to the fact that they hold specific valuable knowledge that's not always articulable. In the same vein, I believe to design is not to educate condescendingly or to tell the users what to know/do, but to share a few moments with souls that feel like doing it-- at that moment, in that space.
 
 For more info
 ------
